@@ -1,0 +1,4 @@
+logs/
+*.zip
+*.TXT
+__pycache__/
