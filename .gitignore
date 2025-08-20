@@ -1,0 +1,37 @@
+# ---------------------------------------------------------
+# Copyright 2024 for Jingzhi & Level. All Rights Reserved.
+# ---------------------------------------------------------
+
+# gitignore list
+
+*.git/
+*.idea/
+*.venv/
+*.vscode/
+*build/
+*data/
+*ipynb/
+*__pycache__/
+
+*.bin
+*.cache
+*.csv
+*.lock
+*.log
+*.out
+*.parquet
+*.pkl
+*.pyc
+*.pyd
+*.pyx
+*.tar
+*.xls
+*.xlsx
+*.zip
+
+*.DS_store
+*pdm.lock
+*project-api.json
+*version
+
+!.gitkeep
